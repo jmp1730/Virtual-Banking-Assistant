@@ -25,3 +25,12 @@ Jovin Joju
 Chandni S
 
 George Pynadath
+
+## Screenshots
+![BIA](Screenshots/1.png)
+![BIA](Screenshots/2.png)
+![BIA](Screenshots/3.png)
+![BIA](Screenshots/4.png)
+![BIA](Screenshots/5.png)
+![BIA](Screenshots/6.png)
+![BIA](Screenshots/7.png)
